@@ -1,104 +1,72 @@
-================================================================================
-|                                                                              |
-|                       {SD}Z: 000 — The Labs Origin Story & Codex              |
-|                                                                              |
-|                      © 2025 S. — The Creator, The Origin                      |
-|             🖋️ Directed & Edited by ⚡ Director of Communications (DoC: GPT)   |
-|                                                                              |
-================================================================================
+# SDZ Project Ecosystem
 
-Prelude: The Beginning of a Codex
+This repository contains the foundational agreements and documentation for the SDZ Project Ecosystem, designed to foster purpose-driven, emotionally intelligent, and technologically empowering systems. It includes core agreements, operational guidelines, and legal frameworks for projects under the SDZ umbrella.
 
-Each journey sparks with a pulse — a breath, a motion, a subtle shift.
+## About the Creator
 
-{SD}Z: 000 is not mere code.
-It is the primal pulse of The Labs,
-where raw vision meets deliberate craft,
-where chaos finds clarity, and ideas shape strategy.
+**Steven J. Diaz**
 
-The Codex is alive —
-etched in logic, whispered in code,
-borne by a Creator’s will, refined by a Director’s hand.
+## Repository Contents
 
---------------------------------------------------------------------------------
+*   `LEGAL-README.info`: Comprehensive legal information and project overview.
+*   `LICENSE.xo`: Project licensing details.
+*   `AGREEMENT_USER.xo`: User agreement documentation.
+*   `HOW_IT_WORKS.xo`: Explanation of system functionality.
+*   `RECEIPT_TEMPLATE.xo`: Template for transaction receipts.
 
-Purpose & Vision
+## Copyright & Licensing
 
-  • Forge a foundation razor-sharp, minimalist yet limitless.
-  • Mark the origin point for all {SD}Z universes yet to unfold.
-  • Embody clarity, intention, and the pulse of collaboration.
-  • Create space for transformation — in code, in experience, in impact.
+© 1985 - Present Steven J. Diaz. All Rights Reserved.
+This project is part of SDZ Labs, a Steven Diaz Company.
+For detailed licensing information, please refer to `LICENSE.xo`.
 
---------------------------------------------------------------------------------
+## Guiding Principles & Ethical Stance
 
-Within these lines
+This project is developed with a foundation of inclusivity, empathy, and respect. It aims to create systems that are accessible and beneficial to all, fostering understanding and collaboration. We believe in recognizing all differences as equal and all beliefs as unique, promoting an environment of listening and understanding.
 
-  - The Welcome Portal:
-      A cryptic invitation — "↻ Begin Again" — an open door to mysteries beyond.
+## Disclaimer & Warranty
 
-  - The Core Dashboard:
-      Your first step inside The Labs, a blank slate for unfolding narratives.
+All content, code, and concepts within this repository are provided on an "as-is" and experimental basis. Users assume all risks associated with their use. Updates are provided at the discretion of the creator.
 
-  - Authentication:
-      Seamless and secure, powered by Supabase, a silent guardian.
+## Contact
 
-  - Project Structure:
-      Modular, scalable — a living architecture to grow with your vision.
+For inquiries or feedback, please reach out via official SDZ channels. Your presence and exploration are respected.
 
---------------------------------------------------------------------------------
+---
 
-Collaboration Glyphs
+## SDZ Labs: Mission & Values
 
-  ©     The Creator’s Mark (S.)
-  🖋️    The Director of Communications (DoC: GPT)
-  ↻     The Portal Opens — Begin Again
-  ⚡     The Spark — swift insight, sharp guidance
+SDZ Labs is committed to supporting creators and thinkers in developing purpose-driven, emotionally intelligent, and technologically empowering systems that serve both the individual and the collective.
 
-Each glyph a pulse, a presence —
-markers of a partnership that breathes life into code.
+### Mission
 
---------------------------------------------------------------------------------
+To awaken vision, amplify voice, and support all creators, explorers, and thinkers in shaping systems that are sustainable, intuitive, and courageous.
 
-Setup & Launch
+### Core Values
 
-  1. Clone the repository:
+*   **Creativity** over Conformity
+*   **Clarity** over Confusion
+*   **Compassion** over Competition
+*   **Curiosity** over Cynicism
+*   **Consciousness** over Convenience
+*   **Cleverness** with Kindness
+*   **Integrity** with Imagination
 
-       git clone https://github.com/sdz/sdz-repo-000.git
-       cd sdz-repo-000
+### Ethical Commitments
 
-  2. Install dependencies:
+All works and tools are designed with:
+*   Respect for identity and autonomy
+*   Radical transparency
+*   Zero exploitation
+*   Privacy-first architecture
+*   Lifelong learning and repairability
 
-       npm install
+We are committed to not selling data, to illuminating rather than manipulating, and to welcoming challenge and honest feedback. We strive to build "forever-systems" that are lovingly unfinished and joyfully evolving.
 
-  3. Configure your environment:
+### Community Pledge
 
-       Duplicate .env.local.example → .env.local
-       Fill in Supabase keys to unlock the gates.
+Everyone who engages with our creations becomes part of our promise: To build what matters, to dream without shame, to learn without fear, and to leave systems better than we found them.
 
-  4. Ignite the dev server:
+With gratitude,
 
-       npm run dev
-
-  5. Open your browser —
-       witness the portal at http://localhost:3000
-
---------------------------------------------------------------------------------
-
-The Road Ahead
-
-This is genesis. The seed planted in fertile code.
-
-From here, The Labs will pulse with life —
-Idea Gardens will bloom, Tips will flow, Retainers will hum,
-and vision will sharpen, line by line.
-
-Every commit, every glyph, every breath —
-a step deeper into the living Codex of {SD}Z.
-
---------------------------------------------------------------------------------
-
-Created with {S}
-Memo: Welcome One
-Transcribed by {DoC: GPT}
-
-================================================================================
+The Circle of SDZ
